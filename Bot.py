@@ -764,4 +764,4 @@ class LabRatBot(discord.Client):
 #endregion
 
 client = LabRatBot()
-client.run('MzgxMjMzMDQzNjM1MDQ0MzUy.DPELiw.wpRRJul1-5dSo9DYWiya8lTUPvo')
+client.run('YOUR BOT API KEY HERE')
